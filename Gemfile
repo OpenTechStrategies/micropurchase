@@ -43,6 +43,7 @@ end
 group :development do
   gem 'web-console', '~> 2.0'
   gem 'rails-erd'
+  gem 'rubocop'
 end
 
 group :production do
